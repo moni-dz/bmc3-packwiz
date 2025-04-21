@@ -1,0 +1,13 @@
+name = "Balm (Fabric Edition)"
+filename = "balm-fabric-1.21.1-21.0.40.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f687f12f70ec5d098264ae333d3ec0f51043989b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6441017
+project-id = 500525

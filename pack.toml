@@ -1,0 +1,13 @@
+name = "Better MC [FABRIC] BMC3"
+author = "LunaPixelStudios"
+version = "29.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6682d5a6d1d30148c77de9be7bbf4146752814aa4c83aea4650baf1b684372bb"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"

@@ -1,0 +1,13 @@
+name = "The Aether"
+filename = "aether-1.21.1-1.5.8-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb374ecc8101019df5539fd0ab9fb3c770c731c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6389869
+project-id = 255308

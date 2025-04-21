@@ -1,0 +1,13 @@
+name = "The Bumblezone (Fabric)"
+filename = "the_bumblezone-7.8.12+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "37ab7035c70c59ce0701f59eb9ce71cbf897597a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6444074
+project-id = 363949

@@ -1,0 +1,13 @@
+name = "Better MC [FABRIC] BMC3"
+filename = "Better MC [FABRIC] 1.21.1 v29.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bad92d5de45f684da5ed7d27871824325ca8f281"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6446206
+project-id = 826731

@@ -1,0 +1,13 @@
+name = "Thermoo"
+filename = "thermoo-4.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e01a04482119e8f3a29941c1a82da9ca9939a20a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6428602
+project-id = 846544

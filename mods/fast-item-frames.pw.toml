@@ -1,0 +1,13 @@
+name = "Fast Item Frames"
+filename = "FastItemFrames-v21.1.2-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "81eefa8786dc5fed0da184ec3c2fda745278878c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6363763
+project-id = 1210171
